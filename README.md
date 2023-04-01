@@ -12,4 +12,4 @@ Si bien nunca fue un programador, o un diseñador, o un ingeniero hoy en día es
 Mis materias favoritas hasta ahora fueron Matemática Discreta y Algoritmos y Estructuras de datos. Creo en que una de las claves para mejorar nuestras habilidades es sabiendo balancear lo que se aprende y es puramente teórico de lo que es puramente práctico.
 En particular me gustaron mucho estas dos materias porque son polos opuestos, que sin embargo cuando se complementan se pueden lograr cosas muy interesantes.
 
-Mucho (de lo relativamente poco que se) de lo que aprendí sobre informática lo aprendí por mi cuenta, hasta el año pasado nunca había tenido una educación formal prolongada sobre estos temas. 
+Mucho (de lo relativamente poco que se) de lo que aprendí sobre informática lo aprendí por mi cuenta, hasta el año pasado nunca había tenido una educación formal prolongada sobre estos temas.
